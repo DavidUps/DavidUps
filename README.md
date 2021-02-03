@@ -19,4 +19,4 @@
 - **[LinkedIn](https://www.linkedin.com/in/david-arribas-canalejo-4865aa151/)** 🏢
 - **[Stackoverflow](https://stackoverflow.com/users/9198161/david-arribas)** 🕵🏻‍♂️
 - **[CV Web](https://davidups.github.io/)** 💻
-- **[Twitter](https://twitter.com/davidarribasc69)** 🕊
+- **[Twitter](https://twitter.com/davidarribasc96)** 🕊
