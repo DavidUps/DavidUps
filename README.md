@@ -7,7 +7,10 @@
 ## Technologies:
 
 - Firebase
-- CI (fastlane)
+- CI:
+  - Fastlane
+  - Jenkins
+  - SonarQube
 - Jira
 - Current architecture for personal projects
   - MVVM
