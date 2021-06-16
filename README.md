@@ -10,6 +10,7 @@
 - CI:
   - Fastlane
   - Jenkins
+  - GitHub, GitLab and Bitbucket CI.
   - SonarQube
 - Jira
 - Current architecture for personal projects
