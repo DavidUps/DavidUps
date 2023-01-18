@@ -1,8 +1,6 @@
 # Android Developer - Kotlin
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=davidups&show_icons=true&theme=tokyonight)](https://github.com/DavidUps?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidups&theme=tokyonight)](https://github.com/DavidUps?tab=repositories)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=davidups&show_icons=true&theme=tokyonight%22%20alt=%22davidups)
 
 ## Technologies:
 
