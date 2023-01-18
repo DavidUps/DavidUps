@@ -1,6 +1,6 @@
 # Android Developer - Kotlin
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=davidups&show_icons=true&theme=tokyonight%22%20alt=%22davidups)
+![ReadMe Card](https://github-readme-stats.vercel.app/api?username=davidups&show_icons=true&theme=tokyonight%22%20alt=%22davidups)
 
 ## Technologies:
 
